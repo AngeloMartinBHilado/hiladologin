@@ -1,4 +1,4 @@
-google-site-verification: googlea027dec21072294b.html
+
 <?php require ("vendor/autoload.php");
 //Step 1: Enter you google account credentials
 
