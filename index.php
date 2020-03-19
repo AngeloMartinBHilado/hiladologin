@@ -1,6 +1,7 @@
+
 <?php require ("vendor/autoload.php");
 //Step 1: Enter you google account credentials
-
+//google-site-verification: googlea027dec21072294b.html
 $g_client = new Google_Client();
 
 $g_client->setClientId("966379932937-kqc13gviequgak1ftm73pvul6r44jork.apps.googleusercontent.com");
