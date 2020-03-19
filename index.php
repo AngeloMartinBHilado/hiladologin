@@ -4,9 +4,9 @@ google-site-verification: googlea027dec21072294b.html
 
 $g_client = new Google_Client();
 
-$g_client->setClientId("966379932937-kqc13gviequgak1ftm73pvul6r44jork.apps.googleusercontent.com");
-$g_client->setClientSecret("xlGq2_aKNgH8Oo74Sjpqhydb");
-$g_client->setRedirectUri("http://endexam.herokuapp.com/index.php");
+$g_client->setClientId("662135407730-v4kqikodv1ihcr56sgtjpd2va3seks40.apps.googleusercontent.com");
+$g_client->setClientSecret("O-kRQixHH9hOQHTzSzVjyDrk");
+$g_client->setRedirectUri("https://hiladocordones.herokuapp.com/home.php");
 $g_client->setScopes("email");
 
 //Step 2 : Create the url
